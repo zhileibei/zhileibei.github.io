@@ -52,7 +52,7 @@ I love sports because it makes me feel alive and grounded in the moment, and als
 - I'm the former captain of the women’s **soccer** team of my department, securing second place in the school soccer tournament three years in a row.
 - I also enjoy running, hiking, skiing, surfing, bouldering, as well as playing pickleball and squash.
 
-![Tennis](../images/tennis.jpg){: .align-left width="350px"}![Soccer](../images/soccer.jpg){: .align-right width="350px"}
+![Tennis](../images/tennis.JPG){: .align-left width="350px"}![Soccer](../images/soccer.jpg){: .align-right width="350px"}
 
 ![Surfing](../images/surfing.jpg){: .align-left width="350px"}![Hiking](../images/hiking.jpeg){: .align-right width="350px"}
 
