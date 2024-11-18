@@ -1,49 +1,70 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, This is Zhilei (Annie) Bei!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a senior undergraduate at **Tsinghua University** in China, majoring in **Computer Science and Engineering**.
 
-A data-driven personal website
+I’m deeply curious about the mysteries of life, summarized by **“who we are” both physically and mentally**, which has sparked my interest in biology and psychology.
+
+I combined my computational background with my passion for biology, focusing on <u>leveraging AI and machine learning techniques to better understand life systems and solve biomedical problems</u>. I am currently applying to graduate programs in computer science / computational biology, aiming to further my academic journey in the US.
+
+I am equally intrigued by the complexities of the human mind, such as how genetics and the environment determine our personality and mindset, and how our memories and internal monologues influence self-perception. I love <u>exploring the deeper, unconscious motivations behind our decisions and behaviors</u>, as I believe we often don’t fully understand ourselves.
+
+Research Interets
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- AI for Biology
+- Multi-modal Machine Learning
+- Biological Networks and Systems
+- Drug Discovery and Therapuetics
+- Interpretability
 
-Getting started
+I am interested in developing **multi-modal machine learning methods** to **learn holistic and meaningful representations** of biological entities <i>in silico</i>. I aspire to uncover the mechanisms underlying **gene regulation** and **cell differentiation** by leveraging insights extracted from large-scale, integrative data through computational methods and analytical tools, ultimately advancing **disease treatments and therapeutics**.
+
+For a more detailed account, please visit the [research](https://zhileibei.github.io/research) page.
+
+Research Experiences
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+- Student Researcher at CMU, working with Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/) on **spatial transcriptomics**.
+- Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models**.
+- Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **target-aware molecule generation**.
+- Student Researcher at Tsinghua University, working with Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) on **leveraging knowledge graphs for disease target prediction**.
+
+For further details, please refer to my [resume](https://github.com/zhileibei/zhileibei.github.io/tree/master/files/Resume.pdf) and the [publications](https://zhileibei.github.io/publications) page.
+
+Hobbies
+======
+
+Apart from my academic and intellectual interests, I’m a very energetic and adventurous person in life, with a wide range of hobbies and open to new experiences.
+
+Sports
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+I love sports because it makes me feel alive and grounded in the moment, and also introduces me to amazing people.
+
+- I’m a member of the Tsinghua **tennis** team, and I've won the women's team championship in the College Student Tennis Tournament in Beijing. 
+- I'm the former captain of the women’s **soccer** team of my department, securing second place in the school soccer tournament three years in a row.
+- I also enjoy running, hiking, skiing, surfing, bouldering, as well as playing pickleball and squash.
+
+![Tennis](/images/tennis.jpg){: .align-left width="350px"}![Soccer](/images/soccer.jpg){: .align-right width="350px"}
+
+![Surfing](/images/surfing.jpg){: .align-left width="350px"}![Hiking](/images/hiking.jpeg){: .align-right width="350px"}
+
+![Running](/images/running.jpg){: .align-left width="350px"}![Bouldering](/images/bouldering.png){: .align-right width="350px"}
+
+Arts
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+I’m also deeply drawn to the arts, especially dance, music and theater. Art offers me profound emotional connections and moments of resonance that words often cannot achieve.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- I’ve danced **ballet** for 12 years and currently learning **modern dance** as a means of creative self-expression.
+- I enjoy playing the **violin** and the **piano** in my spare time as a way to relax.
+- I also love going to **musicals** and **drama performances**.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+![modern-dance-1](/images/modern-dance-1.png){: .align-left width="350px"}![modern-dance-2](/images/modern-dance-2.png){: .align-right width="350px"}
