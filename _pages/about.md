@@ -36,7 +36,7 @@ Research Experiences
 - Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **target-aware molecule generation**.
 - Student Researcher at Tsinghua University, working with Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) on **leveraging knowledge graphs for disease target prediction**.
 
-For further details, please refer to my [resume](https://github.com/zhileibei/zhileibei.github.io/tree/master/files/Resume.pdf) and the [publications](https://zhileibei.github.io/publications) page.
+For further details, please refer to my [CV](https://zhileibei.github.io/cv) and the [publications](https://zhileibei.github.io/publications) page.
 
 Hobbies
 ======
