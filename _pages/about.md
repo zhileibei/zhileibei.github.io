@@ -52,11 +52,11 @@ I love sports because it makes me feel alive and grounded in the moment, and als
 - I'm the former captain of the women’s **soccer** team of my department, securing second place in the school soccer tournament three years in a row.
 - I also enjoy running, hiking, skiing, surfing, bouldering, as well as playing pickleball and squash.
 
-![Tennis](/images/tennis.jpg){: .align-left width="350px"}![Soccer](/images/soccer.jpg){: .align-right width="350px"}
+![Tennis](../images/tennis.jpg){: .align-left width="350px"}![Soccer](../images/soccer.jpg){: .align-right width="350px"}
 
-![Surfing](/images/surfing.jpg){: .align-left width="350px"}![Hiking](/images/hiking.jpeg){: .align-right width="350px"}
+![Surfing](../images/surfing.jpg){: .align-left width="350px"}![Hiking](../images/hiking.jpeg){: .align-right width="350px"}
 
-![Running](/images/running.jpg){: .align-left width="350px"}![Bouldering](/images/bouldering.png){: .align-right width="350px"}
+![Running](../images/running.jpg){: .align-left width="350px"}![Bouldering](../images/bouldering.png){: .align-right width="350px"}
 
 Arts
 ------
@@ -67,4 +67,4 @@ I’m also deeply drawn to the arts, especially dance, music and theater. Art of
 - I enjoy playing the **violin** and the **piano** in my spare time as a way to relax.
 - I also love going to **musicals** and **drama performances**.
 
-![modern-dance-1](/images/modern-dance-1.png){: .align-left width="350px"}![modern-dance-2](/images/modern-dance-2.png){: .align-right width="350px"}
+![modern-dance-1](../images/modern-dance-1.png){: .align-left width="350px"}![modern-dance-2](../images/modern-dance-2.png){: .align-right width="350px"}
