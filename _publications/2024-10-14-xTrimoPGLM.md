@@ -6,8 +6,8 @@ permalink: /publication/2024-10-14-xTrimoPGLM
 excerpt: 'We propose a 100-billion-parameter unified protein language model, xTrimoPGLM, that addresses both protein understanding and generation objectives simultaneously through an innovative pre-training framework, demonstrating State-Of-The-Art performance over other advanced baselines in 18 protein understanding benchmarks across four categories, and powerful abilities for de novo sequence generation as well as programmable generation after supervised fine-tuning (SFT) on curated sequences.'
 date: 2024-10-14
 venue: 'Nature Methods'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/xTrimoPGLM.pdf'
+# slidesurl: 'http://zhileibei.github.io/files/slides2.pdf'
+paperurl: 'http://zhileibei.github.io/files/xTrimoPGLM.pdf'
 citation: 'Bo Chen, Xingyi Cheng, Pan Li, Yangli‐ao Geng, Jing Gong, Shen Li, Zhilei Bei, et al. (2024). &quot;xTrimoPGLM: Unified 100B‐ Scale Pre‐Trained Transformer for Deciphering the Language of Proteins.&quot; <i>Acceptance in Principle at Nature Meth‐ ods, preprint at arXiv:2401.06199</i>.'
 ---
 
