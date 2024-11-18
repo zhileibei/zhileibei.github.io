@@ -1,3 +1,12 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+
 How can we model biological systems <i>in silico</i>?
 
 Inspired by the successes in natural language processing and computer vision, computational biologists have tried learning analogous representations by treating cells as bags of genes or tissues as images of cells. However, unlike the relatively flat, static structure of sentences or images, biological systems are comprised of multi-scale, dynamic spatial-temporal information flows.
