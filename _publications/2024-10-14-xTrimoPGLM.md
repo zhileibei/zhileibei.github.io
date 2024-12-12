@@ -1,6 +1,7 @@
 ---
 title: "xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein"
-collection: publications-accepted
+collection: publications
+status: accepted
 category: manuscripts
 permalink: /publication/2024-10-14-xTrimoPGLM
 excerpt: 'We propose a 100-billion-parameter unified protein language model, xTrimoPGLM, optimizing both protein understanding and generation objectives simultaneously through an innovative pre-training framework, demonstrating State-Of-The-Art performance on 18 protein understanding benchmarks, and powerful <i>de novo</i> and conditional sequence generation abilities.'

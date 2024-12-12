@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Thoughts and Aspirations
-======
+------
 
 How can we model biological systems <i>in silico</i>?
 
@@ -19,9 +19,10 @@ This is further compounded by technological limitations, which often produce sta
 I aspire to answer this question by integrating data across scales and modalities in biologically meaningful ways, and developing computational tools with inductive biases that address unique and inherent characteristics of biological data. Through these efforts, I hope to gain a deeper understanding of the regulatory circuits within and between cells and how we can harness the complex biogical systems for therapeuatics and engineering.
 
 Exploration and Preparations
-======
+------
+
 Biology operates at atomic, molecular, and cellular scales. My research spans these three levels, focusing on tailoring computational approaches to distinct data types and exploring methods for modeling dynamics within and across scales.
- 
+
 At the atomic level, I investigated the generation of target-aware small molecules with high validity and affinity for specific protein pockets, a cornerstone of drug design. Representing molecules as graphs, with atoms as nodes and chemical bonds as edges, I utilized Graph Neural Networks (GNNs) within a diffusion framework to model the biochemical principles underlying molecular assembly. The alignment between the diffusion process and the chemical forces driving molecule generation fascinated me, as did the application of equivariant constraints for geometric GNNs. However, I also recognized that modeling macromolecules at this scale is computationally inefficient for capturing holistic properties and functions, prompting me to explore higher levels of abstraction.
 
 At the molecular level, I applied language modeling techniques to study proteins, representing sequences by their basic residue units and leveraging evolutionary information to derive meaningful representations for understanding and generating proteins. The success of adapting language models to biological data highlighted their potential for extracting insights from protein sequences. Yet, this work revealed that the contextual information, not just individual molecular interactions, is key to understanding clinical outcomes, motivating my shift to broader system-level analyses.
