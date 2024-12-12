@@ -30,7 +30,7 @@ Research Experiences
 ======
 
 - Student Researcher at CMU, working with Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/) on **spatial transcriptomics**.
-- Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models**.
+- Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models** under the guidance of Prof. [Le Song](https://mbzuai.ac.ae/study/faculty/professor-le-song/).
 - Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **diffusion-based target-aware molecule generation**.
 - Student Researcher at Tsinghua University, working with Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) on **leveraging knowledge graphs for disease target prediction**.
 
