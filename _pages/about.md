@@ -10,7 +10,7 @@ redirect_from:
 <!-- I'm a senior undergraduate at **Tsinghua University** in China, majoring in **Computer Science and Engineering**. -->
 I'm a first year Ph.D. student at **Massachusetts Institute of Technology** in the Department of **Electrical Engineering and Computer Science**. 
 
-Before that, I obtained my B.S. degree in Computer Science and Engineering from Tsinghua University in 2025.
+Before that, I obtained my B.Eng. degree in Computer Science and Engineering from Tsinghua University in 2025.
 
 I’m deeply curious about the mysteries of life, with an aspiration to unravel the complexities of biological systems and drive transformative breakthroughs in healthcare.
 
