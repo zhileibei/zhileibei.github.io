@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 <!-- I'm a senior undergraduate at **Tsinghua University** in China, majoring in **Computer Science and Engineering**. -->
-I'm a first year Ph.D. student at **Massachusetts Institute of Technology** in the **Department of Electrical Engineering and Computer Science**. Before that, I obtained my B.S. degree in **Computer Science and Engineering** from **Tsinghua University** in 2025.
+I'm a first year Ph.D. student at **Massachusetts Institute of Technology** in the Department of **Electrical Engineering and Computer Science**. 
+
+Before that, I obtained my B.S. degree in Computer Science and Engineering from Tsinghua University in 2025.
 
 I’m deeply curious about the mysteries of life, with an aspiration to unravel the complexities of biological systems and drive transformative breakthroughs in healthcare.
 
-I combined my computational background with my passion for biology, focusing on <u>leveraging AI and machine learning techniques to better understand life systems and solve biomedical problems</u>. I am currently applying to graduate programs in computer science / computational biology, aiming to further my academic journey in the US.
+I combined my computational background with my passion for biology, focusing on <u>leveraging AI and machine learning techniques to better understand life systems and solve biomedical problems</u>.
 
 Research Interets
 ======
