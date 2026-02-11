@@ -32,6 +32,7 @@ For a more detailed account, please visit the [research](https://zhileibei.githu
 Research Experiences
 ======
 
+- PhD student at MIT, rotating with Prof. [Alex Rives](https://biohub.org/team/alex-rives/) and working on **conditional guidance for generative protein language models**.
 - Student Researcher at CMU, working with Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/) on **spatial transcriptomics**.
 - Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models** under the guidance of Prof. [Le Song](https://mbzuai.ac.ae/study/faculty/professor-le-song/).
 - Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **diffusion-based target-aware molecule generation**.

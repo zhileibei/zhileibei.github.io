@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "1st-Year PhD at MIT EECS"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  # employer         : "Massachusetts Institute of Technology"
   uri              : # URL
   email            : "beizl42@mit.edu" 
 
@@ -84,6 +84,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -132,9 +132,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 200px !default;
-$right-sidebar-width        : 300px !default;
-$right-sidebar-width-wide   : 400px !default;
+$right-sidebar-width-narrow : 10px !default;
+$right-sidebar-width        : 50px !default;
+$right-sidebar-width-wide   : 50px !default;
 
 $susy: (
   columns: 12,
@@ -143,7 +143,7 @@ $susy: (
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  container: $x-large,
   global-box-sizing: border-box,
   // debug: (
   //   image: show,
