@@ -6,20 +6,19 @@ redirect_from:
   - /research/
   - /research.html
 ---
-
 Thoughts and Aspirations
-------
+------------------------
 
 How can we model biological systems <i>in silico</i>?
 
 Working with data across atomic, molecular, and cellular levels has shaped my understanding of computational biology. Unlike the relatively flat structure of sentences or images, biological systems consist of multi-scale spatiotemporal information flows, necessitating tailored representation learning approaches.
 
-This is further compounded by technological limitations, which often produce static snapshots with restricted resolution, incomplete coverage, and high dropout rates. How, then, can we extract the underlying principles of such intricate systems from partial observations? 
+This is further compounded by technological limitations, which often produce static snapshots with restricted resolution, incomplete coverage, and high dropout rates. How, then, can we extract the underlying principles of such intricate systems from partial observations?
 
-I aspire to answer this question by integrating data across scales and modalities in biologically meaningful ways, and developing computational tools with inductive biases that address unique and inherent characteristics of biological data. Through these efforts, I hope to gain a deeper understanding of the regulatory circuits within and between cells and how we can harness the complex biogical systems for therapeuatics and engineering.
+I aspire to answer this question by integrating data across scales and modalities in biologically meaningful ways, and developing computational tools with inductive biases that address unique and inherent characteristics of biological data. Through these efforts, I hope to gain a deeper understanding of the regulatory circuits within and between cells and how we can harness the complex biological systems for therapeutics and engineering.
 
 Exploration and Preparations
-------
+----------------------------
 
 Biology operates at atomic, molecular, and cellular scales. My research spans these three levels, focusing on tailoring computational approaches to distinct data types and exploring methods for modeling dynamics within and across scales.
 
