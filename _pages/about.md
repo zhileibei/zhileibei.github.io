@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!-- I'm a senior undergraduate at **Tsinghua University** in China, majoring in **Computer Science and Engineering**. -->
-I'm a Ph.D. student at **Massachusetts Institute of Technology** in the Department of Electrical Engineering and Computer Science, advised by Prof. [Yunha Hwang](https://www.hwanglab.mit.edu/) in the [Hwang Lab](https://www.hwanglab.mit.edu/). 
+
+I'm a Ph.D. student at **Massachusetts Institute of Technology** in the Department of Electrical Engineering and Computer Science, advised by Prof. [Yunha Hwang](https://www.yunhahwang.com/) in the [Hwang Lab](https://www.hwanglab.mit.edu/).
 
 Before that, I obtained my B.Eng. degree in Computer Science and Engineering from **Tsinghua University** in 2025.
 
@@ -17,7 +17,7 @@ I’m deeply curious about the mysteries of life, with an aspiration to unravel 
 I combined my computational background with my passion for biology, focusing on <u>leveraging AI and machine learning techniques to better understand life systems and solve biomedical problems</u>.
 
 Research Interests
-======
+==================
 
 - AI for Biology
 - Multi-modal Machine Learning
@@ -27,13 +27,12 @@ Research Interests
 
 I am interested in developing **machine learning methods** to **learn holistic and meaningful representations** of biological entities <i>in silico</i>. I aspire to uncover the underlying **regulatory circuits within and between cells** by leveraging insights extracted from large-scale, integrative data through computational methods and analytical tools, ultimately advancing **disease treatments and therapeutics**.
 
-For a more detailed account, please visit the [research](https://zhileibei.github.io/research) page.
-
 Research Experiences
-======
+====================
 
-- PhD student at MIT, working with Prof. [Yunha Hwang](https://www.hwanglab.mit.edu/) on **machine learning for discovering and designing microbial biochemistry**.
+- PhD student at MIT, working with Prof. [Yunha Hwang](https://www.yunhahwang.com/) on **machine learning for discovering and designing microbial biochemistry**.
 - PhD rotation at MIT, with Prof. [Alex Rives](https://biohub.org/team/alex-rives/) on **conditional guidance for generative protein language models**.
+- PhD rotation at MIT, with Profs. [Kaiming He](https://people.csail.mit.edu/kaiming/) and [Le Cong](https://profiles.stanford.edu/186687) on **context-aware protein subcellular localization prediction**.
 - Student Researcher at CMU, working with Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/) on **spatial transcriptomics**.
 - Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models** under the guidance of Prof. [Le Song](https://mbzuai.ac.ae/study/faculty/professor-le-song/).
 - Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **diffusion-based target-aware molecule generation**.
