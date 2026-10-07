@@ -31,11 +31,11 @@ Research Experiences
 ====================
 
 - PhD student at MIT, working with Prof. [Yunha Hwang](https://www.yunhahwang.com/) on **machine learning for discovering and designing microbial biochemistry**.
-- PhD rotation at MIT, with Prof. [Alex Rives](https://biohub.org/team/alex-rives/) on **conditional guidance for generative protein language models**.
 - PhD rotation at MIT, with Profs. [Kaiming He](https://people.csail.mit.edu/kaiming/) and [Le Cong](https://profiles.stanford.edu/186687) on **context-aware protein subcellular localization prediction**.
+- PhD rotation at MIT, with Prof. [Alex Rives](https://biohub.org/team/alex-rives/) on **conditional guidance for generative protein language models**.
 - Student Researcher at CMU, working with Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/) on **spatial transcriptomics**.
 - Research Intern at [BioMap](https://www.biomap.com/en/), working on **protein language models** under the guidance of Prof. [Le Song](https://mbzuai.ac.ae/study/faculty/professor-le-song/).
 - Student Researcher at Tsinghua University, working with Profs. [Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/) and [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) on **diffusion-based target-aware molecule generation**.
 - Student Researcher at Tsinghua University, working with Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) on **leveraging knowledge graphs for disease target prediction**.
 
-For further details, please refer to my [CV](../files/Resume-260824.pdf) and the [publications](https://zhileibei.github.io/publications) page.
+For further details, please refer to my [CV](../files/Resume-261007.pdf) and the [publications](https://zhileibei.github.io/publications) page.
